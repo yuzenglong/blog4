@@ -1,0 +1,4 @@
+baseURL = 'https://yuzenglong.github.io/blog4/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'lightbi-hugo'
